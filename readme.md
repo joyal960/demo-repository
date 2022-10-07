@@ -1,3 +1,3 @@
-# this is an demo
+# this is for demo purouse
 
 welcome to my github repository...........
